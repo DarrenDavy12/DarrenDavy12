@@ -34,9 +34,13 @@ Check my pinned repositories below — each one includes a full README with arch
 🌱 Currently Focusing On
 
 Implementing security and governance layers into pipelines — Key Vault, RBAC, data lineage
+<br>
 Azure DevOps and CI/CD Pipelines 
+<br>
 Data Visualization with Power BI 
+<br>
 Deepening expertise in Azure-native architecture patterns
+<br>
 Building projects that reflect real enterprise standards
 
 <!--
