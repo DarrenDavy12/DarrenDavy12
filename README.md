@@ -2,8 +2,12 @@ Hey, I'm Darren👋
 Aspiring Data Engineer based in the UK (United Kingdom) — building production-ready data pipelines with a focus on the Microsoft Azure ecosystem.
 I'm self-driven, project-led, and serious about writing clean, secure, and scalable data infrastructure. Currently open to junior and entry-level Data Engineering opportunities.
 
-📫 Reach me on email: darrendavy05@gmail.com
 
+📌 Featured Projects
+
+Check my pinned repositories below — each one includes a full README with architecture diagrams, design decisions, and notes on what I'd improve in a production setting.
+
+📫 Reach me on email: darrendavy05@gmail.com
 
 🔧 What I Work With and 🔭 currently working on: 
 
@@ -24,11 +28,6 @@ Supporting Stack
 
 Git & GitHub · Docker · Terraform
 REST APIs · JSON · Parquet
-
-
-📌 Featured Projects
-
-Check my pinned repositories below — each one includes a full README with architecture diagrams, design decisions, and notes on what I'd improve in a production setting.
 
 
 🌱 Currently Focusing On
