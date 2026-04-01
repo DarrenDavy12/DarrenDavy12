@@ -1,6 +1,6 @@
 Hey, I'm Darren👋
 Aspiring Data Engineer based in the UK (United Kingdom) — building production-ready data pipelines with a focus on the Microsoft Azure ecosystem.
-I'm self-driven, project-led, and serious about writing clean, secure, and scalable data infrastructure. Currently open to junior and entry-level Data Engineering opportunities.
+I'm self-driven, project-led, and serious about writing clean, secure, and scalable data infrastructure. Currently open to entry-level, junior and mid-level Data Engineering opportunities.
 
 
 📌 Featured Projects
