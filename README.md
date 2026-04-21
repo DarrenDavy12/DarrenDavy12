@@ -42,7 +42,7 @@ Deepening expertise in Azure-native architecture patterns
 <br>
 Building projects that reflect real enterprise standards
 <br>
-Learning Azure Databricks & obtaining DP-750 Implementing Data Engineering Solutions Using Azure Databricks
+Learning Azure Data Engineering, alongside Fabric & focusing on obtaining the DP-700 certification
 
 <!--
 **DarrenDavy12/DarrenDavy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
