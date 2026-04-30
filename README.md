@@ -21,7 +21,7 @@ Data Engineering
 
 Python · SQL · PySpark
 ETL/ELT Pipeline Design
-Data Governance & Security (Microsoft Purview, Azure Policy)
+Data Governance & Security 
 Medallion Architecture (Bronze / Silver / Gold)
 
 Supporting Stack
@@ -42,7 +42,8 @@ Deepening expertise in Azure-native architecture patterns
 <br>
 Building projects that reflect real enterprise standards
 <br>
-Learning Azure Data Engineering, alongside Fabric & focusing on obtaining the DP-700 certification
+Learning further Azure Data Engineering, alongside Fabric and Snowflake.
+
 
 <!--
 **DarrenDavy12/DarrenDavy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
