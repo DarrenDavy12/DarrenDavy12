@@ -36,8 +36,6 @@ Implementing security and governance layers into pipelines — Key Vault, RBAC, 
 <br>
 Azure DevOps and CI/CD Pipelines 
 <br>
-Data Visualization with Power BI 
-<br>
 Deepening expertise in Azure-native architecture patterns
 <br>
 Building projects that reflect real enterprise standards
