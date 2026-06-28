@@ -40,7 +40,7 @@ Deepening expertise in Azure-native architecture patterns
 <br>
 Building projects that reflect real enterprise standards
 <br>
-Learning further Azure Data Engineering, alongside Fabric and Snowflake.
+Learning further Azure Data Engineering, alongside dbt and getting fmailiar with platforms like Databricks, Fabric, and Snowflake.
 
 
 <!--
