@@ -15,7 +15,7 @@ Cloud & Infrastructure
 
 Microsoft Azure — Data Factory, Azure Data Lake, Synapse Analytics, Databricks, Fabric
 Azure Key Vault · RBAC · Managed Identities · Service Principal · Private Endpoints 
-Azure DevOps · CI/CD Pipelines
+Azure DevOps · CI/CD Pipelines · Other cloud provider equivalent tools (AWS, GCP)
 
 Data Engineering
 
@@ -30,7 +30,7 @@ Git & GitHub · Docker · Terraform
 REST APIs · JSON · Parquet
 
 
-🌱 Currently Focusing On
+🌱 I’m currently learning ...
 
 Implementing security and governance layers into pipelines — Key Vault, RBAC, data lineage
 <br>
@@ -40,7 +40,7 @@ Deepening expertise in Azure-native architecture patterns
 <br>
 Building projects that reflect real enterprise standards
 <br>
-Learning further Azure Data Engineering, alongside dbt and getting fmailiar with platforms like Databricks, Fabric, and Snowflake.
+Learning further Azure Data Engineering, alongside dbt and getting familiar with platforms like Databricks, Fabric, and Snowflake.
 
 
 <!--
